@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class teste {
+public class somascanner {
     public static void main(String [] args) {
     int idade;
     int vasco;
